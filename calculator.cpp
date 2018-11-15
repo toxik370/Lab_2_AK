@@ -2,14 +2,14 @@
 
 int Calculator::Add (double a, double b)
 {
-<<<<<<< HEAD
-    return a + b;
-=======
+	//Malginov
 	return a + b + 0.5;
->>>>>>> 4ad40a3 (fix truncation error)
+	//Maksym
 }
 
 int Calculator::Sub (double a, double b)
-{
-    return Add (a, -b);
+	{
+		//IO-05
+    		return Add (a, -b);
+		//123123123213213
 }
